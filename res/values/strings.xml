@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BehangBLinkExtension</string>
+    <string name="behang_json">http://apollo.xfer.in/appwalls/behang_manifest.json</string>
+    <string name="behang_name">Behang</string>
 </resources>
