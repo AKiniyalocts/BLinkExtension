@@ -22,7 +22,7 @@
 <p>Below is the code for my Behang BLink extension</p>
 <a href="http://imgur.com/B96wtea"><img src="http://i.imgur.com/B96wtea.png" /></a>
 <p>A generic BLink extension</p>
-<a href="http://imgur.com/zAHKBST"><img src="http://i.imgur.com/zAHKBST.png"/></a>
+<a href="http://imgur.com/PjoSWHd"><img src="http://i.imgur.com/PjoSWHd.png" /></a>
 
 <p>An explanation of those lines...</p>
 <ul>
