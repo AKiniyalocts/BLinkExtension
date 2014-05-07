@@ -12,12 +12,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.behang.BehangBLinkExtension" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0dd2b14-230a-4d6a-87b4-683eb311c729" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e0dd2b14-230a-4d6a-87b4-683eb311c729" name="Default" comment="" />
     <ignored path="BehangBLinkExtension.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -108,11 +103,12 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4379562" vertical-offset="0" max-vertical-offset="411">
-              <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+            <state vertical-scroll-proportion="0.6569343" vertical-offset="0" max-vertical-offset="411">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#264#282#0" expanded="true" />
                 <element signature="e#546#567#0" expanded="true" />
+                <element signature="e#627#648#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -483,11 +479,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4379562" vertical-offset="0" max-vertical-offset="411">
-          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        <state vertical-scroll-proportion="0.6569343" vertical-offset="0" max-vertical-offset="411">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#264#282#0" expanded="true" />
             <element signature="e#546#567#0" expanded="true" />
+            <element signature="e#627#648#0" expanded="true" />
           </folding>
         </state>
       </provider>
