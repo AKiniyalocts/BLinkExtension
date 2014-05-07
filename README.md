@@ -29,3 +29,7 @@
 <p>When deploying (installing the apk) your extension there is no need to "Launch a Default Activity". Behang simply reads the meta-data of your apk. The package merely needs to be installed.
 <p>Once installed, open Behang and select your source from the BLink Source drawer on the right. Behang will load your walls (if you followed the JSON formatting instructions) and display them in Behang.</p>
 <a href="http://imgur.com/YRbjz7s"><img src="http://i.imgur.com/YRbjz7s.png" /></a>
+
+<h2>Final Thoughts</h2>
+<p>If you followed the previous steps, your extension is ready to be published! Remember, all of the code needed to create an extension is available to you above in the BLinkExtension example. The purpose of this API is to make your life as a designer easier. If, in any way, this is not fulfilling that mission please let us know.</p>
+<h2>Enjoy BLink!</h2>
