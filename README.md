@@ -11,15 +11,19 @@
 <p>Download: <a href="https://www.dropbox.com/s/v3bkvwc58iz06bm/BLinkExtension.java">BLinkExtension.java</a> and place it in your package's directory</p>
 <a href="http://imgur.com/Aqdz3vl"><img src="http://i.imgur.com/Aqdz3vl.png" /></a>
 <p>Create a new java class that extends BLinkExtension</p>
-<a href="http://imgur.com/zql89gY"><img src="http://i.imgur.com/zql89gY.png" /></a>
 <p>Below is the code for my Behang BLink extension.</p>
 <a href="http://imgur.com/YrJcKAw"><img src="http://i.imgur.com/YrJcKAw.png" /></a>
+<p>A generic BLink Extension</p>
+<a href="http://imgur.com/zql89gY"><img src="http://i.imgur.com/zql89gY.png" /></a>
+
 <p>That is all the *code* that is needed! Now time for the manifest!</p>
 <h2>3: Android Manifest</h2>
 <p>In order for Behang to pick up your extension, we have to add a few pieces of data to the Android Manifest.</p>
-<a href="http://imgur.com/LyIQ1jh"><img src="http://i.imgur.com/LyIQ1jh.png"/></a>
 <p>Below is the code for my Behang BLink extension</p>
 <a href="http://imgur.com/BGDFkCb"><img src="http://i.imgur.com/BGDFkCb.png" /></a>
+<p>A generic BLink extension</p>
+<a href="http://imgur.com/zAHKBST"><img src="http://i.imgur.com/zAHKBST.png"/></a>
+
 <p>An explanation of those lines...</p>
 <ul>
     <li>uses-sdk android:minSdkVersion="7"  (Behang supports android 2.1 and up)</li>
