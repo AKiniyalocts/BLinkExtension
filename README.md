@@ -15,6 +15,8 @@
 <p>That is all the *code* that is needed! Now time for the manifest!</p>
 <h2>3: Android Manifest</h2>
 <p>In order for Behang to pick up your extension, we have to add a few pieces of data to the Android Manifest.</p>
+<a href="http://imgur.com/LyIQ1jh"><img src="http://i.imgur.com/LyIQ1jh.png"/></a>
+<p>Below is the code for my Behang BLink extension</p>
 <a href="http://imgur.com/BGDFkCb"><img src="http://i.imgur.com/BGDFkCb.png" /></a>
 <p>An explanation of those lines...</p>
 <ul>
