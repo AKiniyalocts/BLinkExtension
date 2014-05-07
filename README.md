@@ -5,3 +5,6 @@
 <ul>
     <li><p>When creating, there is no need for a "Default Activity". Many IDE's create this by default (because you usually want that when starting a new Android project). So, if you are given the option to, do not create a default activity.</p></li>
 </ul>
+<p>Once your project is created, navigate to your <b>"src"</b> directory and in it, you should find a child directory with your package name (if you are following the example, it is "com.behang.BehangBlinkExtension").</p><br>
+
+<p>Download this file: <a href=""
