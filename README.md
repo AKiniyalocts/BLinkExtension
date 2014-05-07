@@ -11,6 +11,8 @@
 <p>Download: <a href="https://www.dropbox.com/s/v3bkvwc58iz06bm/BLinkExtension.java">BLinkExtension.java</a> and place it in your package's directory</p>
 <a href="http://imgur.com/Aqdz3vl"><img src="http://i.imgur.com/Aqdz3vl.png" /></a>
 <p>Create a new java class that extends BLinkExtension</p>
+<a href="http://imgur.com/zql89gY"><img src="http://i.imgur.com/zql89gY.png" /></a>
+<p>Below is the code for my Behang BLink extension.</p>
 <a href="http://imgur.com/YrJcKAw"><img src="http://i.imgur.com/YrJcKAw.png" /></a>
 <p>That is all the *code* that is needed! Now time for the manifest!</p>
 <h2>3: Android Manifest</h2>
