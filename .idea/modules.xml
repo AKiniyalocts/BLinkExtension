@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BehangBLinkExtension.iml" filepath="$PROJECT_DIR$/BehangBLinkExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BLinkExtension.iml" filepath="$PROJECT_DIR$/BLinkExtension.iml" />
     </modules>
   </component>
 </project>
