@@ -6,6 +6,6 @@
     <li>I don't have an application. I just want to publish a stand-alone BLink Extension.</li>
 </ol>
 
-<p>If you chose # 1, you'll want to <a href="#">follow these steps.</a></p>
+<p>If you chose # 1, you'll want to <a href="https://github.com/AKiniyalocts/BLinkExtension/wiki/Adding-a-BLink-Extension-to-your-application">follow these steps.</a></p>
 <p>If you chose # 2, you'll want to <a href="https://github.com/AKiniyalocts/BLinkExtension/wiki/Creating-a-stand-alone-BLink-Extension">follow these steps.</a></p>
 
