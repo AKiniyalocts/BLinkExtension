@@ -10,6 +10,7 @@
     <li>Completely original works</li>
     <li>Muzei support</li>
 </ul>
+<p>Sounds good right? Follow this link to learn about how to structure your <a href="http://knok.in/?page_id=1301">JSON and wallpaper files</a>
 
 <h2>Pre-Setup</h2>
 <p>Before we get started, determine which phrase best decribes your situation.</p>
