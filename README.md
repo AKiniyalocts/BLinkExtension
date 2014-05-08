@@ -7,5 +7,5 @@
 </ol>
 
 <p>If you chose # 1, you'll want to <a href="#">follow these steps.</a></p>
-<p>If you chose # 2, you'll want to <a href="#">follow these steps.</a></p>
+<p>If you chose # 2, you'll want to <a href="https://github.com/AKiniyalocts/BLinkExtension/wiki/Creating-a-stand-alone-BLink-Extension">follow these steps.</a></p>
 
